@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/hotelbookingfrontend/static/css/main.0005ed46.css",
+    "main.js": "/hotelbookingfrontend/static/js/main.654b0c3f.js",
+    "static/media/backgforund-main-home.webp": "/hotelbookingfrontend/static/media/backgforund-main-home.120ab45e76dbe4e98b10.webp",
+    "index.html": "/hotelbookingfrontend/index.html",
+    "main.0005ed46.css.map": "/hotelbookingfrontend/static/css/main.0005ed46.css.map",
+    "main.654b0c3f.js.map": "/hotelbookingfrontend/static/js/main.654b0c3f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0005ed46.css",
+    "static/js/main.654b0c3f.js"
+  ]
+}
