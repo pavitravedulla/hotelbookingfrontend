@@ -1,0 +1,31 @@
+/* Home Page Styles */
+.home {
+  background-color: white;
+  color: black;
+}
+
+.home h1, .home h2, .home h3, .home h4, .home p, .home a, .home span {
+  color: black;
+}
+
+.home .header-banner {
+  /* Keep existing styles */
+}
+
+.home .overlay-content h1 span {
+  color: inherit; /* or specific color if needed */
+}
+
+.home .service-card {
+  background-color: #f8f9fa;
+  color: black;
+}
+
+.home .service-title, .home .service-description {
+  color: black;
+}
+
+/* Ensure all text is black */
+.home * {
+  color: inherit;
+}
